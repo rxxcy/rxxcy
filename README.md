@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://github.com/rxxcy">Rxxcy</a>.<br> Welcome.<br><br>#javascript, #vuejs, #php, #python, #golang</samp>
+  <samp>Hello there. I'm <a href="https://github.com/rxxcy">Rxxcy</a>.<br> Welcome.<br><br>#javascript, #php, #python, #golang</samp>
   <br>
   <br>
   <br>
